@@ -71,6 +71,7 @@ Objective:
   Clients wants to create a two Dashboard i.e, Bank Summary and Bank Overview Dasboard so that they can have insight on the below requirements-
   
  DASHBOARD 1: SUMMARY
+ 
   Key Performance Indicators (KPIs) Requirements:
    1. Total Loan Applications: We need to calculate the total number of loan applications received during a specified period. Additionally, it is essential to monitor the Month-to-Date (MTD) Loan Applications and track changes Month-over-Month (MoM).
    2. Total Funded Amount: Understanding the total amount of funds disbursed as loans is crucial. We also want to keep an eye on the MTD Total Funded Amount and analyse the Month-over-Month (MoM) changes in this metric.
@@ -79,6 +80,7 @@ Objective:
    5. Average Debt-to-income Ratio (DTI): Evaluating the average DTI for our borrowers helps us gauge their financial health.  We need to compute the average DTI for and track Month-over-Month (MoM) fluctuations.
 
  Good Loan v Bad Loan KPI's
+ 
   Good Loan:
    1.	Good Loan Application Percentage
    2.	Good Loan Applications
@@ -92,6 +94,7 @@ Objective:
    4.	Bad Loan Total Received Amount
 
  Loan Status Grid View
+ 
    In order to gain a comprehensive overview of our lending operations and monitor the performance of loans, we aim
    to create a grid view report categorized by 'Loan Status.' By providing insights into metrics such as 'Total Loan
    Applications,' 'Total Funded Amount,' 'Total Amount Received,' 'Month-to-Date (MTD) Funded Amount,' 'MTD
